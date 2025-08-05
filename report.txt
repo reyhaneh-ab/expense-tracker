@@ -1,0 +1,4 @@
+Total Expenses: 422.0
+By Category:
+{'food': 68.0, 'dancing classes': 122.0, 'uni': 23.0, 'clothing': 87.0, 'classes': 122.0}
+Daily Average: 70.33333333333333
